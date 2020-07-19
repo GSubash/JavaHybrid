@@ -1,12 +1,12 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="Medalogix:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Medalogix_jar</output-path>
-    <root id="archive" name="Medalogix.jar">
+  <artifact type="jar" name="JavaHybrid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaHybrid_jar</output-path>
+    <root id="archive" name="JavaHybrid.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/test/java/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="Medalogix" />
-      <element id="module-test-output" name="Medalogix" />
+      <element id="module-output" name="JavaHybrid" />
+      <element id="module-test-output" name="JavaHybrid" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar" path-in-jar="/" />
