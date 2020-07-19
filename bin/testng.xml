@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Medalogix TestSuite">
+    <listeners>
+        <listener class-name = "commonMethods.CustomReporter" />
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Medalogix Automation Report">
+        <classes>
+            <class name="testScripts.TestCase1"></class>
+            <class name="testScripts.TestCase2"></class>
+            <class name="testScripts.TestCase3"></class>
+            <class name="testScripts.TestCase4"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Care Page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Patient Name is verified Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-07-07T06:51:05 IST" name="Medalogix TestSuite" finished-at="2020-07-07T06:51:21 IST" duration-ms="15756">
+    <groups>
+    </groups>
+    <test started-at="2020-07-07T06:51:05 IST" name="D:/SCB/Automation/Sample/src/test/java" finished-at="2020-07-07T06:51:21 IST" duration-ms="15756">
+      <class name="testScripts.TestCase1">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.TestCase1@3c153a1]" started-at="2020-07-07T06:51:05 IST" name="beforeTest" finished-at="2020-07-07T06:51:12 IST" duration-ms="6365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyPatientRecord()[pri:0, instance:testScripts.TestCase1@3c153a1]" started-at="2020-07-07T06:51:12 IST" name="verifyPatientRecord" finished-at="2020-07-07T06:51:21 IST" duration-ms="9169" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Care Page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Branch is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Patient Name is verified Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPatientRecord -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.TestCase1@3c153a1]" started-at="2020-07-07T06:51:21 IST" name="afterTest" finished-at="2020-07-07T06:51:21 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.TestCase1 -->
+    </test> <!-- D:/SCB/Automation/Sample/src/test/java -->
+  </suite> <!-- Medalogix TestSuite -->
+</testng-results>

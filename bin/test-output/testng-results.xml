@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1: Application is logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: Navigated to Care Page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Branch is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Patient Name is verified Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: Application is logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: Navigated to Care Page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Requested Branch selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Patient Name is verified Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: Patient Page Scroll is verified Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: Application is logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: Navigated to Care Page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Requested Branch selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Patient Name is verified Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: Recommendation Reason is verified Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: Application is logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: Navigated to Care Page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Care Reports page is selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Report is downloaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: Patient Record is verified for recent visits]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-07-07T16:21:02 IST" name="Medalogix TestSuite" finished-at="2020-07-07T16:22:15 IST" duration-ms="72999">
+    <groups>
+    </groups>
+    <test started-at="2020-07-07T16:21:02 IST" name="Medalogix Automation Report" finished-at="2020-07-07T16:22:15 IST" duration-ms="72999">
+      <class name="testScripts.TestCase4">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.TestCase4@3444d69d]" started-at="2020-07-07T16:21:47 IST" name="beforeTest" finished-at="2020-07-07T16:21:54 IST" duration-ms="7038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyUpdatedPatientRecord()[pri:0, instance:testScripts.TestCase4@3444d69d]" started-at="2020-07-07T16:21:54 IST" name="verifyUpdatedPatientRecord" finished-at="2020-07-07T16:22:14 IST" duration-ms="20564" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: Application is logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: Navigated to Care Page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Care Reports page is selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Report is downloaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: Patient Record is verified for recent visits]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUpdatedPatientRecord -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.TestCase4@3444d69d]" started-at="2020-07-07T16:22:14 IST" name="afterTest" finished-at="2020-07-07T16:22:15 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.TestCase4 -->
+      <class name="testScripts.TestCase2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.TestCase2@120d6fe6]" started-at="2020-07-07T16:21:18 IST" name="beforeTest" finished-at="2020-07-07T16:21:24 IST" duration-ms="5805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyPageScroll()[pri:0, instance:testScripts.TestCase2@120d6fe6]" started-at="2020-07-07T16:21:24 IST" name="verifyPageScroll" finished-at="2020-07-07T16:21:33 IST" duration-ms="9154" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: Application is logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: Navigated to Care Page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Requested Branch selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Patient Name is verified Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: Patient Page Scroll is verified Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageScroll -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.TestCase2@120d6fe6]" started-at="2020-07-07T16:21:33 IST" name="afterTest" finished-at="2020-07-07T16:21:33 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.TestCase2 -->
+      <class name="testScripts.TestCase3">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.TestCase3@4ba2ca36]" started-at="2020-07-07T16:21:33 IST" name="beforeTest" finished-at="2020-07-07T16:21:38 IST" duration-ms="5203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyRecommendationReason()[pri:0, instance:testScripts.TestCase3@4ba2ca36]" started-at="2020-07-07T16:21:38 IST" name="verifyRecommendationReason" finished-at="2020-07-07T16:21:46 IST" duration-ms="8324" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: Application is logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: Navigated to Care Page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Requested Branch selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Patient Name is verified Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: Recommendation Reason is verified Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyRecommendationReason -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.TestCase3@4ba2ca36]" started-at="2020-07-07T16:21:46 IST" name="afterTest" finished-at="2020-07-07T16:21:47 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.TestCase3 -->
+      <class name="testScripts.TestCase1">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.TestCase1@1176dcec]" started-at="2020-07-07T16:21:02 IST" name="beforeTest" finished-at="2020-07-07T16:21:09 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyPatientRecord()[pri:0, instance:testScripts.TestCase1@1176dcec]" started-at="2020-07-07T16:21:09 IST" name="verifyPatientRecord" finished-at="2020-07-07T16:21:17 IST" duration-ms="8309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: Application is logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: Navigated to Care Page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Branch is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Patient Name is verified Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPatientRecord -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.TestCase1@1176dcec]" started-at="2020-07-07T16:21:17 IST" name="afterTest" finished-at="2020-07-07T16:21:18 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.TestCase1 -->
+    </test> <!-- Medalogix Automation Report -->
+  </suite> <!-- Medalogix TestSuite -->
+</testng-results>
