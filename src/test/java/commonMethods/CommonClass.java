@@ -275,7 +275,7 @@ public class CommonClass {
 
                     protected PasswordAuthentication getPasswordAuthentication() {
 
-                        return new PasswordAuthentication(fromUser, "Niklaus12#");
+                        return new PasswordAuthentication(fromUser, "");
 
                     }
 

@@ -32,7 +32,7 @@ public class CarePage {
     @FindBy(xpath = "//button[@class='ms-choice']")
     public static WebElement btnSelectbranch;
 
-    @FindBy(xpath = "//*[@id='summaryPanel1']//table//tr[1]/td[7]")
+    @FindBy(xpath = "//*[@id='summaryPanel1']//table//tr[1]/td[5]")
     public static WebElement lblBranchName;
 
     @FindBy(xpath = "//*[@id='summaryPanel1']//table//tr[1]/td[2]/a")
