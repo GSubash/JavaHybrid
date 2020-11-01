@@ -26,7 +26,7 @@ public class TestCase3 {
  * TestCase 3 :
  * Verify the patient has a Recommendation or valid reason for not having a recommendation
  ------------------------------------------------------------------------------------------------------------------*/
-    @Test(enabled = true)
+    @Test(enabled = false)
     public void verifyRecommendationReason() throws IOException, InterruptedException
     {
         PageFactory.initElements(driver, LogOnPage.class);

@@ -26,7 +26,7 @@ public class TestCase2 {
  * TestCase 2 :
  * Verify Page Opens scroll to the bottom
  ------------------------------------------------------------------------------------------------------------------*/
-    @Test(enabled = true)
+    @Test(enabled = false)
     public void verifyPageScroll() throws IOException, InterruptedException
     {
         PageFactory.initElements(driver, LogOnPage.class);

@@ -27,7 +27,7 @@ public class TestCase4 {
  * Click and download the Patient Record View Report.
  * Ensure updated Patient record views show in the report.
  ------------------------------------------------------------------------------------------------------------------*/
-    @Test(enabled = true)
+    @Test(enabled = false)
     public void verifyUpdatedPatientRecord() throws IOException, InterruptedException
     {
         PageFactory.initElements(driver, LogOnPage.class);
