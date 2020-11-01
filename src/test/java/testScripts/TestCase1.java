@@ -43,9 +43,9 @@ public class TestCase1 {
         CarePage.selectBranch(driver);
         Reporter.log("Step 3: Branch is selected successfully");
 
-        PageFactory.initElements(driver, PatientsPage.class);
+        /*PageFactory.initElements(driver, PatientsPage.class);
         PatientsPage.selectPatientAndVerify(driver);
-        Reporter.log("Step 4: Patient Name is verified Successfully");
+        Reporter.log("Step 4: Patient Name is verified Successfully");*/
     }
     @AfterMethod
     public void afterTest() throws IOException, InterruptedException
